@@ -1,1 +1,1 @@
-# egghead-build-your-own-digital-garden
+# egghead build your own digital garden
