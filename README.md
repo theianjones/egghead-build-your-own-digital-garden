@@ -1,4 +1,4 @@
-# Build Your Own Digital Garden
+# Start Bloggin with a Digital Garden
 
 So you have a bunch of notes and you want to share them with the world (or with your future self), how do you do it? This course will take you from having a stack of notes to a fully customized digital garden.
 
